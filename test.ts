@@ -3,4 +3,4 @@ function add(num1: number, num2: number) {
   }
   
   add(1, 1);
-  tsc test.ts
+  
